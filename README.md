@@ -10,11 +10,11 @@ Este se encuentra desplegado en https://swapi.co/api/
 Documentación: https://swapi.co/documentation#root
 
 ### Integrantes:
-David Ballesteros Suta  Código: 1921023457
-Diana Milena González Pineda  Código: 1911981635
-Edward Giovanni Amaya Rodríguez  Código: 1721022800
-Einar Embus Galindo  Código: 1721983122
-Nelson Santisteban   Código:
+- David Ballesteros Suta  Código: 1921023457
+- Diana Milena González Pineda  Código: 1911981635
+- Edward Giovanni Amaya Rodríguez  Código: 1721022800
+- Einar Embus Galindo  Código: 1721983122
+- Nelson Santisteban   Código:
 
 ### Institucion Universitaria:
 POLITECNICO GRAN COLOMBIANO
