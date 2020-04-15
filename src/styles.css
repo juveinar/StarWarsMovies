@@ -37,3 +37,14 @@ body {
     background-color:#3b5998;
     }
 .btn a {color:#ffffff;text-decoration:none;}
+
+
+
+input[type="text"]{
+	border: 1px solid #c1c1c1; padding: 6px;
+	width: auto;
+}
+
+label {
+  color: #FAE418;
+}
