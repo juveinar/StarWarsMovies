@@ -48,3 +48,18 @@ input[type="text"]{
 label {
   color: #FAE418;
 }
+
+.btn1 {
+  margin:16px 6px 2px 0;
+  font-weight:bold;
+  display: inline-block;
+  padding:6px 12px;
+  font-size:16px;
+  cursor:pointer;
+  outline:0;
+  background-color:#3b5998;
+}
+.btn1 a {
+  color:#ffffff;
+  text-decoration:none;
+}
