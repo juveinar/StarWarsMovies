@@ -15,9 +15,25 @@ body {
   background-image: url(./assets/images/fondo.png);
   width: 100%;
   height: 100vh;
+  text-align: center;
 }
 
 [alt="star-logo"] {
   width: 25rem;;
   height: 7rem;
 }
+
+
+  .btn{
+    margin:16px 6px 2px 0;
+    font-weight:bold;
+    display:inline-block;
+    padding:6px 12px;
+    font-size:16px;
+    text-align:center;
+    cursor:pointer;
+    outline:0;
+    float:center;
+    background-color:#3b5998;
+    }
+.btn a {color:#ffffff;text-decoration:none;}

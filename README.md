@@ -1,4 +1,4 @@
-# Proyecto Star Wars Movies
+## Proyecto Star Wars Movies
 
 Es un proyecto desarrollado con Angular CLI version 9.1.0.
 
@@ -9,12 +9,12 @@ Nos interesa mucho la opinión del usuario para posibles mejoras a nuestro siste
   Este se encuentra desplegado en https://swapi.co/api/
   Documentación: https://swapi.co/documentation#root
 
-### Integrantes:
+## Integrantes:
 - David Ballesteros Suta  Código: 1921023457
 - Diana Milena González Pineda  Código: 1911981635
 - Edward Giovanni Amaya Rodríguez  Código: 1721022800
 - Einar Embus Galindo  Código: 1721983122
 - Nelson Santisteban   Código:
 
-### Institucion Universitaria:
+## Institucion Universitaria:
 POLITECNICO GRAN COLOMBIANO
