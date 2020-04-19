@@ -1,13 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-
-}
-
-
 body {
   font-family: 'Bitter', serif;
   background-color: black;
@@ -16,50 +7,4 @@ body {
   width: 100%;
   height: 100vh;
   text-align: center;
-}
-
-[alt="star-logo"] {
-  width: 25rem;;
-  height: 7rem;
-}
-
-
-  .btn{
-    margin:16px 6px 2px 0;
-    font-weight:bold;
-    display:inline-block;
-    padding:6px 12px;
-    font-size:16px;
-    text-align:center;
-    cursor:pointer;
-    outline:0;
-    float:center;
-    background-color:#3b5998;
-    }
-.btn a {color:#ffffff;text-decoration:none;}
-
-
-
-input[type="text"]{
-	border: 1px solid #c1c1c1; padding: 6px;
-	width: auto;
-}
-
-label {
-  color: #FAE418;
-}
-
-.btn1 {
-  margin:16px 6px 2px 0;
-  font-weight:bold;
-  display: inline-block;
-  padding:6px 12px;
-  font-size:16px;
-  cursor:pointer;
-  outline:0;
-  background-color:#3b5998;
-}
-.btn1 a {
-  color:#ffffff;
-  text-decoration:none;
 }
