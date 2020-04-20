@@ -11,14 +11,10 @@ Nos interesa mucho la opinión del usuario para posibles mejoras a nuestro siste
 
 ## Integrantes:
 - David Ballesteros Suta  Código: 1921023457
-- Diana González Pineda   Código: 1911981635
-- Edward Giovanni Amaya Rodriguez Código: 1721022800
+- Diana  González Pineda  Código: 1911981635
+- Edward Giovanni Amaya Rodríguez  Código: 1721022800
 - Einar Embus Galindo  Código: 1721983122
-<<<<<<< HEAD
 - Nelson Santisteban   Código: 1721026128
-=======
-- Nelson Santisteban   Código:
->>>>>>> 577e1963cc2f0a30ca96b9b950d2b28e05991186
 
 ## Institucion Universitaria:
 POLITECNICO GRAN COLOMBIANO

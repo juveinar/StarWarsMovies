@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PoliComponent } from './poli.component';
+import { PolitecnicoComponent } from './politecnico.component';
 
-describe('PoliComponent', () => {
-  let component: PoliComponent;
-  let fixture: ComponentFixture<PoliComponent>;
+describe('PolitecnicoComponent', () => {
+  let component: PolitecnicoComponent;
+  let fixture: ComponentFixture<PolitecnicoComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ PoliComponent ]
+      declarations: [ PolitecnicoComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PoliComponent);
+    fixture = TestBed.createComponent(PolitecnicoComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
