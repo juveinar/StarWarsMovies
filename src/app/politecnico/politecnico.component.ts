@@ -7,10 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class POLITECNICOComponent implements OnInit {
 
-  title = 'POLITECNICO';
-  constructor() { }
+  title = 'UNIVERSIDAD';
+  title2 = 'POLITECNICO GRAN COLOMIANO';
+  public imgPath: string;
 
-  ngOnInit(): void {
-  }
+  constructor() {
+  this.imgPath = "../assets/images/war1.jpg"
+}
+
+  ngOnInit(): void {}
 
 }

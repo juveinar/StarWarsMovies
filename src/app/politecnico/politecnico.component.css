@@ -1,5 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .hello-world {
   background: blue ;
   color : white;
+  font-size: 15px;
+  font-style: "verdana";
+  }
 
+p { color: white; font-size: 18px}
+
+img{
+    width: 32rem;
+    height: 31rem;
   }

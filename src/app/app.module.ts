@@ -7,6 +7,8 @@ import { POLITECNICOComponent } from './politecnico/politecnico.component';
 import { PeliculasService } from './services/peliculas.service';
 import { HttpClientModule} from '@angular/common/http';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
