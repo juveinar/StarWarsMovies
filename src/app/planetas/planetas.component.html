@@ -1,0 +1,17 @@
+
+
+<div class="label">
+    <h3>Nombre</h3>
+    <h3>Clima</h3>
+    <h3>Terreno</h3>
+    </div>
+
+<div   *ngFor = "let planeta of listaPlanetas">
+
+    <h3 class="nombre">{{planeta.name}}</h3>
+    <h3 class="clima">{{planeta.climate}}</h3>
+    <h3 class="terreno">{{planeta.terrain}}</h3>
+    
+</div>
+
+
