@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { POLITECNICOComponent } from './politecnico/politecnico.component';
 import { PeliculasService } from './services/peliculas.service';
 import { HttpClientModule} from '@angular/common/http';
+import { CharacterComponent } from './character/character.component';
+import { MoviesComponent } from './movies/movies.component';
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    POLITECNICOComponent
+    POLITECNICOComponent,
+    CharacterComponent,
+    MoviesComponent
   ],
   imports: [
     BrowserModule,
