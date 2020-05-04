@@ -1,0 +1,44 @@
+
+.label h3{
+    display: inline-block;   
+    margin:0px 30px 0px 60px;
+    color: red  ;
+    padding: 2px;
+    background-color: black;
+    
+  }
+  
+  .nombre{
+          
+      color: white;
+      margin:0px 0px 0px 90px;
+      padding: 0px;
+      display: inline-block;   
+      font-size: medium;
+      
+  }   
+  
+  .Modelo{
+      color: white;
+      display: inline-block;
+      padding: auto;
+      margin:0px 0px 0px 100px;
+      padding: 0px;
+      font-size: medium;
+  }
+  
+  .Piloto{
+      color: white;
+      display: inline-block;
+      padding: auto;
+      margin:0px 0px 0px 50px;
+      padding: 0px;
+      font-size: medium;
+  }
+
+  .img5{
+    width: 600px;
+    height: 280px;
+    z-index: 2;
+  
+  }

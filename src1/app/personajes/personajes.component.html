@@ -1,0 +1,20 @@
+
+<div class=imagenes>
+    <img class="img3" src="../assets/images/war3.PNG" alt="">
+    
+    </div>
+
+<div class="label">
+    <h3>Nombre</h3>
+    <h3>Altura</h3>
+    <h3>Masa</h3>
+    </div>
+
+<div   *ngFor = "let personas of listaPersonas">
+
+    <h3 class="Nombre">{{personas.name}}</h3>
+    <h3 class="Altura">{{personas.height}}</h3>
+    <h3 class="Masa">{{personas.mass}}</h3>
+    
+</div>
+
