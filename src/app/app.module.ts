@@ -12,6 +12,7 @@ import { MenuComponent } from './menu/menu.component';
 import { PeliculasComponent } from './peliculas/peliculas.component';
 import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
+import { starshipsComponent } from './starships/starships.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { PlanetasComponent } from './planetas/planetas.component';
     MenuComponent,
     PeliculasComponent,
     PersonajesComponent,
-    PlanetasComponent
+    PlanetasComponent,
+    starshipsComponent
 
     
   ],

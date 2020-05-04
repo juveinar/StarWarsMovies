@@ -7,15 +7,17 @@ import { MoviesComponent } from './movies/movies.component';
 import { PeliculasComponent } from './peliculas/peliculas.component';
 import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
+import { starshipsComponent } from './starships/starships.component';
 
 
 const routes: Routes = [
   { path: 'home', component: POLITECNICOComponent },
   { path: 'character', component: CharacterComponent },
   { path: 'movies', component: MoviesComponent  },
-  {path: 'pelis', component:PeliculasComponent},
-    {path: 'person', component:PersonajesComponent},  
-  {path: 'planet', component:PlanetasComponent}  
+  { path: 'pelis', component:PeliculasComponent},
+  { path: 'person', component:PersonajesComponent},  
+  { path: 'planet', component:PlanetasComponent},
+  { path: 'starships', component:starshipsComponent}
 ];
 
 @NgModule({

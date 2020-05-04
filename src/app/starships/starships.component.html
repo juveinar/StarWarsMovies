@@ -1,0 +1,21 @@
+<div class=imagenes>
+    <img class="img5" src="../assets/images/war5.jpg" alt="">
+    
+    </div>
+
+
+<div class="label">
+    <h3>Nombre</h3>
+    <h3>Modelo</h3>
+    <h3>clase de nave</h3>
+    </div>
+
+<div   *ngFor = "let starships of listastarships">
+
+    <h3 class="nombre">{{starships.name}}</h3>
+    <h3 class="Modelo">{{starships.model}}</h3>
+    <h3 class="Modelo">{{starships.starship_class}}</h3>
+    
+</div>
+
+
