@@ -13,7 +13,7 @@ import { PeliculasComponent } from './peliculas/peliculas.component';
 import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
 import { starshipsComponent } from './starships/starships.component';
-import { EspeciesComponent } from './especies/especies.component';
+import { speciesComponent } from './species/species.component';
 
 
 @NgModule({
@@ -25,9 +25,9 @@ import { EspeciesComponent } from './especies/especies.component';
     PersonajesComponent,
     PlanetasComponent,
     starshipsComponent,
-    EspeciesComponent
+    speciesComponent,
 
-    
+
   ],
   imports: [
     BrowserModule,

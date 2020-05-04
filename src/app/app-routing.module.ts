@@ -8,6 +8,7 @@ import { PeliculasComponent } from './peliculas/peliculas.component';
 import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
 import { starshipsComponent } from './starships/starships.component';
+import { speciesComponent } from './species/species.component';
 
 
 const routes: Routes = [
@@ -15,10 +16,13 @@ const routes: Routes = [
   { path: 'character', component: CharacterComponent },
   { path: 'movies', component: MoviesComponent  },
   { path: 'pelis', component:PeliculasComponent},
-  { path: 'person', component:PersonajesComponent},  
+  { path: 'person', component:PersonajesComponent},
   { path: 'planet', component:PlanetasComponent},
-  { path: 'starships', component:starshipsComponent}
-];
+  { path: 'starships', component:starshipsComponent},
+  { path: 'species', component:speciesComponent},
+
+  ]
+
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

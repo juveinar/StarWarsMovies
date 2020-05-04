@@ -1,0 +1,19 @@
+<div class=imagenes>
+  <img class="img4" src="../assets/images/war4.PNG" alt="">
+
+  </div>
+
+
+<div class="label">
+  <h3>Nombre</h3>
+  <h3>Clasificacion</h3>
+  <h3>Designacion</h3>
+  </div>
+
+<div   *ngFor = "let specie of listaspecies">
+
+  <h3 class="nombre">{{specie.name}}</h3>
+  <h3 class="clasificacion">{{specie.classification}}</h3>
+  <h3 class="designacion">{{specie.designation}}</h3>
+
+</div>
