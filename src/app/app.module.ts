@@ -13,6 +13,7 @@ import { PeliculasComponent } from './peliculas/peliculas.component';
 import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
 import { starshipsComponent } from './starships/starships.component';
+import { EspeciesComponent } from './especies/especies.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { starshipsComponent } from './starships/starships.component';
     PeliculasComponent,
     PersonajesComponent,
     PlanetasComponent,
-    starshipsComponent
+    starshipsComponent,
+    EspeciesComponent
 
     
   ],
