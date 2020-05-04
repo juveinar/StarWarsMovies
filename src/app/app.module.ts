@@ -8,15 +8,22 @@ import { PeliculasService } from './services/peliculas.service';
 import { HttpClientModule} from '@angular/common/http';
 import { CharacterComponent } from './character/character.component';
 import { MoviesComponent } from './movies/movies.component';
-
+import { MenuComponent } from './menu/menu.component';
+import { PeliculasComponent } from './peliculas/peliculas.component';
+import { PersonajesComponent } from './personajes/personajes.component';
+import { PlanetasComponent } from './planetas/planetas.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     POLITECNICOComponent,
-    CharacterComponent,
-    MoviesComponent
+    MenuComponent,
+    PeliculasComponent,
+    PersonajesComponent,
+    PlanetasComponent
+
+    
   ],
   imports: [
     BrowserModule,
