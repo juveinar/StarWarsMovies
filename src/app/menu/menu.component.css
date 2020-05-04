@@ -2,18 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-        
+
   }
-  
-  
-  
+
+
+
   [alt="star-logo"] {
     width: 25rem;;
     height: 7rem;
-    
+
   }
-  
-  
+
+
     .btn{
       margin:16px 6px 2px 0;
       font-weight:bold;
@@ -22,22 +22,22 @@
       font-size:16px;
       cursor:pointer;
       outline:0;
-     
+
       background-color:#3b5998;
       }
   .btn a {color:#ffffff;text-decoration:none;}
-  
-  
-  
+
+
+
   input[type="text"]{
       border: 1px solid #c1c1c1; padding: 6px;
       width: auto;
   }
-  
+
   label {
     color: #FAE418;
   }
-  
+
   .btn1 {
     margin:16px 6px 2px 0;
     font-weight:bold;
@@ -52,6 +52,6 @@
     color:#ffffff;
     text-decoration:none;
   }
-  
-  
-  
+
+
+
