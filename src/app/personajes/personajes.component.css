@@ -32,3 +32,10 @@
       padding: 0px;
       font-size: medium;
   }
+  
+  .img3{
+    width: 600px;
+    height: 280px;
+    z-index: 2;
+  
+  }
