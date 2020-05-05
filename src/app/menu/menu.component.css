@@ -19,7 +19,7 @@
       font-weight:bold;
       display:inline-block;
       padding:6px 12px;
-      font-size:16px;
+      font-size:relative size;
       cursor:pointer;
       outline:0;
 
@@ -43,7 +43,7 @@
     font-weight:bold;
     display: inline-block;
     padding:6px 12px;
-    font-size:16px;
+    font-size:relative size;
     cursor:pointer;
     outline:0;
     background-color:#3b5998;
