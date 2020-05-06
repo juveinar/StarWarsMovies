@@ -1,0 +1,20 @@
+<div class=imagenes>
+  <img class="img1" src="../assets/images/war5.jpg" alt="">
+
+  </div>
+
+
+<div class="label">
+  <h3>NOMBRE</h3>
+  <h3>MODELO</h3>
+  <h3>CLASE VEHICULO</h3>
+  </div>
+
+<div   *ngFor = "let vehicle of listavehicles">
+
+  <h3 class="nombre">{{vehicle.name}}</h3>
+  <h3 class="clasificacion">{{vehicle.model}}</h3>
+  <h3 class="designacion">{{vehicle.vehicle_class}}</h3>
+
+</div>
+

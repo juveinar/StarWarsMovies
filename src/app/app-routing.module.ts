@@ -9,7 +9,7 @@ import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
 import { starshipsComponent } from './starships/starships.component';
 import { speciesComponent } from './species/species.component';
-
+import { vehiclesComponent } from './vehicles/vehicles.component';
 
 const routes: Routes = [
   { path: 'home', component: POLITECNICOComponent },
@@ -20,6 +20,8 @@ const routes: Routes = [
   { path: 'planet', component:PlanetasComponent},
   { path: 'starships', component:starshipsComponent},
   { path: 'species', component:speciesComponent},
+  { path: 'vehicles', component:vehiclesComponent},
+
 
   ]
 

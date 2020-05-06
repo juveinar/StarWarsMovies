@@ -14,6 +14,7 @@ import { PersonajesComponent } from './personajes/personajes.component';
 import { PlanetasComponent } from './planetas/planetas.component';
 import { starshipsComponent } from './starships/starships.component';
 import { speciesComponent } from './species/species.component';
+import { vehiclesComponent } from './vehicles/vehicles.component';
 
 
 @NgModule({
@@ -26,6 +27,7 @@ import { speciesComponent } from './species/species.component';
     PlanetasComponent,
     starshipsComponent,
     speciesComponent,
+    vehiclesComponent,
 
 
   ],

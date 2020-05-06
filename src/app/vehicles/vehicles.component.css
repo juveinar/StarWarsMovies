@@ -1,0 +1,44 @@
+
+.label h3{
+  display: inline-block;
+  margin: -300px 0px 0px 300px ;
+  color: red  ;
+  padding: 2px;
+  background-color: black;
+
+}
+
+.nombre{
+
+    color: white;
+    margin: 10px 0px 0px 250px;
+    padding: auto;
+    display: inline-block;
+    font-size: relative size;
+
+}
+
+.modelo{
+    color: white;
+    display: inline-block;
+    padding: auto;
+    margin:0px 0px 0px 400px;
+    padding: 0px;
+    font-size: relative size;
+}
+
+.clase{
+    color: white;
+    display: inline-block;
+    padding: auto;
+    margin:0px 0px 10px 450px;
+    padding: 0px;
+    font-size: relative size;
+}
+
+.img5{
+  width: 900px;
+  height: 380px;
+  z-index: 2;
+
+}
