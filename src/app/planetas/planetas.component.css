@@ -1,37 +1,36 @@
-
 .label h3{
-    display: inline-block;   
-    margin:0px 30px 0px 60px;
+  display: inline-block;
+  margin: -300px 0px 0px 300px ;
     color: red  ;
     padding: 2px;
     background-color: black;
-    
+
   }
-  
+
   .nombre{
-          
+
       color: white;
-      margin:0px 0px 0px 90px;
-      padding: 0px;
-      display: inline-block;   
+      margin:0px 0px 10px 300px;
+      padding: 2px;
+      display: inline-block;
       font-size: medium;
-      
-  }   
-  
+
+  }
+
   .clima{
       color: white;
       display: inline-block;
       padding: auto;
-      margin:0px 0px 0px 100px;
+      margin:0px 0px 0px 320px;
       padding: 0px;
       font-size: medium;
   }
-  
+
   .terreno{
       color: white;
       display: inline-block;
       padding: auto;
-      margin:0px 0px 0px 50px;
+      margin:0px 0px 0px 420px;
       padding: 0px;
       font-size: medium;
   }
@@ -40,5 +39,5 @@
     width: 600px;
     height: 280px;
     z-index: 2;
-  
+
   }

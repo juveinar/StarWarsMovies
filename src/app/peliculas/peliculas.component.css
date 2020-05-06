@@ -1,7 +1,6 @@
-
 .label h3{
-    display: inline-block;
-    margin:0px 30px 0px 60px;
+  display: inline-block;
+  margin: -350px 0px 0px 350px ;
     color: red  ;
     padding: 2px;
     background-color: black;
@@ -11,10 +10,10 @@
   .episodio{
 
       color: white;
-      margin:0px 0px 0px 90px;
+      margin:0px 0px 0px 390px;
       padding: 0px;
       display: inline-block;
-      font-size: medium;
+      font-size: relative size;
 
   }
 
@@ -22,23 +21,23 @@
       color: white;
       display: inline-block;
       padding: auto;
-      margin:0px 0px 0px 100px;
+      margin:0px 0px 0px 350px;
       padding: 0px;
-      font-size: medium;
+      font-size: relative size;
   }
 
   .director{
       color: white;
       display: inline-block;
       padding: auto;
-      margin:0px 0px 0px 50px;
+      margin:0px 0px 10px 280px;
       padding: 0px;
-      font-size: medium;
+      font-size: relative size;
   }
 
   .img2{
     width: 600px;
-    height: 300px;
+    height: 400px;
     z-index: 2;
 
   }
