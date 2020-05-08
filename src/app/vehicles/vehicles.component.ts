@@ -19,7 +19,7 @@ export class vehiclesComponent implements OnInit {
   llenarListaDevehicles(){
     this.vehiclesServices.traerTodosLosvehicles().subscribe (
       (data) => {
-      console.log ('DATE' , data);
+      console.log ('DATO' , data);
       this,this.listavehicles = data ['results'];
       }
       );
