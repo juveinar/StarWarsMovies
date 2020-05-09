@@ -9,7 +9,7 @@ export class vehiclesService {
 
   getvehicles () {
 
-    const vehicles = {name:"", model:"", vehicles_class:""};
+    const vehicles = {name:"", model:"", passengers:""};
 return vehicles;
 }
 

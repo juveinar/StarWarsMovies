@@ -20,7 +20,7 @@ const routes: Routes = [
   { path: 'planet', component:PlanetasComponent},
   { path: 'starships', component:starshipsComponent},
   { path: 'species', component:speciesComponent},
-  { path: 'vehicles', component:vehiclesComponent}
+  { path: 'vehicles', component:vehiclesComponent},
 
 
   ]

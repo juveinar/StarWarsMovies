@@ -7,14 +7,14 @@
 <div class="label">
   <h3>NOMBRE</h3>
   <h3>MODELO</h3>
-  <h3>CLASE VEHICULO</h3>
+  <h3>PASAJEROS</h3>
   </div>
 
-<div   *ngFor = "let vehicle of listavehicles">
+<div   *ngFor = "let vehicles of listavehicles">
 
-  <h3 class="nombre">{{vehicle.name}}</h3>
-  <h3 class="clasificacion">{{vehicle.model}}</h3>
-  <h3 class="designacion">{{vehicle.vehicle_class}}</h3>
+  <h3 class="nombre">{{vehicles.name}}</h3>
+  <h3 class="modelo">{{vehicles.model}}</h3>
+  <h3 class="pasajeros">{{vehicles.passengers}}</h3>
 
 </div>
 
